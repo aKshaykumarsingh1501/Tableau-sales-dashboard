@@ -4,7 +4,7 @@
 This project analyzes sales data using Tableau.
 
 ## 📁 Files
-- dashboard.twbx → Tableau packaged workbook
+- dashboard.twd → Tableau packaged workbook
 - dataset.csv → Raw data
 
 ## 📸 Preview

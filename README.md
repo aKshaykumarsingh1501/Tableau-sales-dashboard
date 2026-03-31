@@ -8,8 +8,8 @@ This project analyzes sales data using Tableau.
 - dataset.csv → Raw data
 
 ## 📸 Preview
-(Add screenshots here)
-
+![Dashboard Preview 1](screenshots/1.png)
+![Dashboard Preview 2](screenshots/2.png)
 ## 🛠 Tools Used
 - Tableau
 - Excel / CSV
